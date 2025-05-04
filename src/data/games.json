@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Final Fantasy VII",
+    "year": 1997,
+    "description": "Final Fantasy VII is a 1997 role-playing video game developed by Square for the PlayStation console. The game follows Cloud Strife, a mercenary who joins an eco-terrorist organization to stop a world-controlling megacorporation from using the planet's life essence as an energy source. Events send Cloud and his allies in pursuit of Sephiroth, a powerful man who seeks to harm the planet.",
+    "image": "/images/ff7.jpg",
+    "platform": "PlayStation",
+    "developer": "Square",
+    "genre": "Role-playing"
+  },
+  {
+    "id": 2,
+    "title": "Metal Gear Solid",
+    "year": 1998,
+    "description": "Metal Gear Solid is a 1998 stealth game developed by Konami Computer Entertainment Japan and published by Konami for the PlayStation. The game follows Solid Snake, a special forces operative, who infiltrates a nuclear weapons facility to neutralize the terrorist threat from FOXHOUND, a renegade special forces unit. The game is known for its cinematic cutscenes, complex story, and emphasis on stealth and tactical espionage.",
+    "image": "/images/mgs.jpg",
+    "platform": "PlayStation",
+    "developer": "Konami",
+    "genre": "Stealth, Action-adventure"
+  },
+  {
+    "id": 3,
+    "title": "Spyro the Dragon",
+    "year": 1998,
+    "description": "Spyro the Dragon is a platform game developed by Insomniac Games and published by Sony Computer Entertainment for the PlayStation. The game follows the adventures of Spyro, a young purple dragon, as he travels across various worlds to rescue his fellow dragons who have been crystallized by the antagonist, Gnasty Gnorc. The game features 3D platforming gameplay, where players control Spyro as he explores levels, collects gems, and defeats enemies.",
+    "image": "/images/spyro.jpg",
+    "platform": "PlayStation",
+    "developer": "Insomniac Games",
+    "genre": "Platformer"
+  }
+]
