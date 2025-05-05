@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 const GameCard = ({ game }) => {
+  // Render a card for each game with its title, year, platform, developer, and description
   return (
     <div className="card h-100 shadow-sm">
       <div className="card-body">

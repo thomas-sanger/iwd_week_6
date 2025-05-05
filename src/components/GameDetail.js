@@ -9,6 +9,7 @@ const GameDetail = ({ games }) => {
   const game = games.find((game) => game.id === parseInt(id));
 
   if (!game) {
+    // If the game is not found, show a message and a button to go back
     return (
       <div className="container mt-4">
         <p>Game not found!</p>
@@ -19,6 +20,7 @@ const GameDetail = ({ games }) => {
     );
   }
 
+  // Render the game details
   return (
     <div className="container mt-4">
       <div className="row">

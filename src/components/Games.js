@@ -2,6 +2,7 @@ import React from "react";
 import GameCard from "./GameCard";
 
 const Games = ({ games }) => {
+  // Render a list of game cards
   return (
     <div className="container mt-4">
       <h2 className="mb-4">Classic Video Games</h2>

@@ -11,6 +11,7 @@ function App() {
   // Game data
   const [games] = useState(gamesData);
 
+  // Render the main application with routing
   return (
     <Router>
       <div className="App">

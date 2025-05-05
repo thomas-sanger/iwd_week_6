@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 const Home = () => {
+  // Render the home page with a welcome message and a call to action
   return (
     <div className="container mt-4">
       <div className="p-5 mb-4 bg-primary text-white rounded-3">
